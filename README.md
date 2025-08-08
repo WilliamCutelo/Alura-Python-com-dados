@@ -22,8 +22,7 @@ Análise exploratória e dashboard interativo dos salários de profissionais da 
 Crie e ative um ambiente virtual
 
 ## 📊 Fonte de Dados
-Exemplo: https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv
-(ou dados-imersao-final.csv se estiver no repositório)
+https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv
 
 ## 💡 Tecnologias
 Python · Pandas · Plotly Express · Streamlit
